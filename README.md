@@ -1,28 +1,96 @@
-<h1 align="center">Hi 👋, I'm Denilson Santa Cruz</h1>
-<h3 align="center">A passionate frontend and backend developer from Bolivia</h3>
+# 👨‍💻 Ray Denilson Santa Cruz Luizaga
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denilson1998&label=Profile%20views&color=0e75b6&style=flat" alt="denilson1998" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denilson1998" alt="denilson1998" /></a> </p>
-
-- 🔭 I’m currently working on **Clean Architecture Backend**
-
-- 🌱 I’m currently learning **IA with .NET and Agent development with Eve**
-
-- 💬 Ask me about **.NET Core, Angular.**
-
-- 📫 How to reach me **raydenilsonsantacruz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ray-denilson-santa-cruz-luizaga-7969b8221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ray-denilson-santa-cruz-luizaga-7969b8221/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=microservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilson1998&show_icons=true&locale=en&layout=compact" alt="denilson1998" /></p>
+## 🧑‍💻 Sobre mí
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denilson1998&show_icons=true&locale=en" alt="denilson1998" /></p>
+Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo e implementación de soluciones empresariales escalables. Especialista en **.NET**, **arquitecturas de microservicios**, **Clean/Hexagonal Architecture** y **DevOps**. He liderado proyectos de transformación digital en los sectores **farmacéutico**, **retail** y **financiero**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denilson1998&" alt="denilson1998" /></p>
+> 🚀 Apasionado por la tecnología, la arquitectura de software y la automatización. Siempre en búsqueda de nuevos desafíos que combinen innovación y calidad.
+
+---
+
+## 🛠️ Tech Stack
+
+### Lenguajes
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Librerías
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0085CA?style=for-the-badge&logo=sap&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **Autofarmacia** | Plataforma de gestión y toma de pedidos para farmacias, optimizando el flujo de trabajo interno y la experiencia del cliente. | .NET Core, Angular, SQL Server, Docker |
+| **POS Web** | Nuevo punto de venta basado en Clean Architecture, con alta disponibilidad y rendimiento. | ASP.NET Core, Angular, PostgreSQL |
+| **Jichi App - Payments** | Microservicio de pagos reestructurado con Arquitectura Hexagonal, mejorando la mantenibilidad y escalabilidad. | .NET Core, MongoDB, Docker |
+| **Contact Center Agent** | Agente automatizado con IA para toma de pedidos, integrado con SAP HANA para procesamiento en tiempo real. | .NET, IA, SAP HANA |
+
+---
+
+## 🏆 Logros Clave
+
+- ✅ Liderazgo técnico en la migración de sistemas monolíticos a microservicios en el sector retail.
+- ✅ Implementación de pipelines CI/CD con Azure DevOps y Docker, reduciendo el tiempo de despliegue en un 60%.
+- ✅ Diseño de arquitecturas resilientes con patrones como Circuit Breaker, Event Sourcing y CQRS.
+- ✅ Mentoría de equipos de desarrollo en buenas prácticas de Clean Code y principios SOLID.
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DenilsonSantaCruz&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonSantaCruz&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 📧 [raydenilsonantacruz@gmail.com](mailto:raydenilsonantacruz@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ray-denilson-santa-cruz-luizaga) *(actualiza con tu URL real)*
+- 🐙 [GitHub](https://github.com/DenilsonSantaCruz)
+
+---
+
+## 🧠 Filosofía
+
+> *"El buen software no solo resuelve problemas, sino que anticipa los futuros."*
+
+---
+
+⚡ **Siempre aprendiendo, siempre construyendo.**
