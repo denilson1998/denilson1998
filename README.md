@@ -55,9 +55,9 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | **Autofarmacia** | Plataforma de gestión y toma de pedidos para farmacias, optimizando el flujo de trabajo interno y la experiencia del cliente. | .NET Core, Angular, SQL Server, Docker |
-| **POS Web** | Nuevo punto de venta basado en Clean Architecture, con alta disponibilidad y rendimiento. | ASP.NET Core, Angular, PostgreSQL |
-| **Jichi App - Payments** | Microservicio de pagos reestructurado con Arquitectura Hexagonal, mejorando la mantenibilidad y escalabilidad. | .NET Core, MongoDB, Docker |
-| **Contact Center Agent** | Agente automatizado con IA para toma de pedidos, integrado con SAP HANA para procesamiento en tiempo real. | .NET, IA, SAP HANA |
+| **POS Web** | Nuevo punto de venta basado en Clean Architecture, con alta disponibilidad y rendimiento. | .NET Core, Angular, EntityFramework, SQL Server, Docker, Jenkins |
+| **Jichi App - Payments** | Microservicio de pagos reestructurado con Arquitectura Hexagonal, mejorando la mantenibilidad y escalabilidad. | .NET Core, Angular, EntityFramework, SQL Server, Docker, Jenkins |
+| **Contact Center Agent** | Agente automatizado con IA para toma de pedidos, integrado con SAP HANA para procesamiento en tiempo real. | .NET Core, Angular, AI, EntityFramework, SQL Server, Docker, Jenkins |
 
 ---
 
@@ -73,8 +73,8 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenilsonSantaCruz&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonSantaCruz&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denilson1998&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson1998&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -82,8 +82,8 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 ## 📫 Contacto
 
 - 📧 [raydenilsonantacruz@gmail.com](mailto:raydenilsonantacruz@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ray-denilson-santa-cruz-luizaga) *(actualiza con tu URL real)*
-- 🐙 [GitHub](https://github.com/DenilsonSantaCruz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ray-denilson-santa-cruz-luizaga-7969b8221) *(actualiza con tu URL real)*
+- 🐙 [GitHub](https://github.com/denilson1998)
 
 ---
 
