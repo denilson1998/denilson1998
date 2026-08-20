@@ -55,9 +55,9 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | **Autofarmacia** | Plataforma de gestión y toma de pedidos para farmacias, optimizando el flujo de trabajo interno y la experiencia del cliente. | .NET Core, Angular, SQL Server, Docker |
-| **POS Web** | Nuevo punto de venta basado en Clean Architecture, con alta disponibilidad y rendimiento. | ASP.NET Core, Angular, PostgreSQL |
-| **Jichi App - Payments** | Microservicio de pagos reestructurado con Arquitectura Hexagonal, mejorando la mantenibilidad y escalabilidad. | .NET Core, MongoDB, Docker |
-| **Contact Center Agent** | Agente automatizado con IA para toma de pedidos, integrado con SAP HANA para procesamiento en tiempo real. | .NET, IA, SAP HANA |
+| **POS Web** | Nuevo punto de venta basado en Clean Architecture, con alta disponibilidad y rendimiento. | .NET Core, Angular, Entityframework, SQL Server, Docker |
+| **Jichi App - Payments** | Microservicio de pagos reestructurado con Arquitectura Hexagonal, mejorando la mantenibilidad y escalabilidad. | .NET Core, Entityframework, SQL Server, Docker |
+| **Contact Center Agent** | Agente automatizado con IA para toma de pedidos online. | .NET Core, Entityframework, SQL Server, IA, Docker |
 
 ---
 
