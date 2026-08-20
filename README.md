@@ -73,8 +73,20 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denilson1998&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson1998&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <!-- Estadísticas generales (con caché extendida) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=denilson1998&show_icons=true&theme=radical&cache_seconds=3600" alt="Estadísticas" width="48%" />
+  <!-- Lenguajes más usados (con caché extendida) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson1998&layout=compact&theme=radical&cache_seconds=3600" alt="Lenguajes" width="48%" />
+</p>
+
+<!-- Racha de contribuciones (servicio muy estable) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denilson1998&theme=radical" alt="Racha de contribuciones" />
+</p>
+
+<!-- Trofeos de perfil (servicio muy estable) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=denilson1998&theme=radical&no-frame=true&row=1" alt="Trofeos" />
 </p>
 
 ---
