@@ -73,8 +73,8 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenilsonSantaCruz&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenilsonSantaCruz&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denilson1998&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilson1998&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
