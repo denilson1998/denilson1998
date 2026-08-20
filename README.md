@@ -74,7 +74,11 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denilson1998" alt="Estadísticas de GitHub" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denilson1998" alt="Lenguajes más usados" />
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denilson1998&" alt="denilson1998" />
 </p>
 
