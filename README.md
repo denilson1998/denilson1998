@@ -87,14 +87,8 @@ Ingeniero de Sistemas con **+5 años de experiencia** en el diseño, desarrollo 
 ## 📫 Contacto
 
 - 📧 [raydenilsonantacruz@gmail.com](mailto:raydenilsonantacruz@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ray-denilson-santa-cruz-luizaga-7969b8221) *(actualiza con tu URL real)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ray-denilson-santa-cruz-luizaga-7969b8221)
 - 🐙 [GitHub](https://github.com/denilson1998)
-
----
-
-## 🧠 Filosofía
-
-> *"El buen software no solo resuelve problemas, sino que anticipa los futuros."*
 
 ---
 
